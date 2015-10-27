@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "e-scape",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"e-scape","repositoryName":"blog","branch":"gh-pages","cname":"blog.e-scape.co.jp"},"site":{"title":"ESC Blog","description":"Blog of ESC","url":"http://blog.e-scape.co.jp"},"socialnetwork":{},"theme":{"name":"Casper","url":"//e-scape.github.io/blog/themes/Casper"}}
